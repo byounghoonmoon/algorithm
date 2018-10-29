@@ -43,7 +43,7 @@ public class 포도주시식_2156 {
 		for(int i=1; i<=N; i++)
 			wine[i] = Integer.parseInt(br.readLine());
 		
-		dp[0] = 0;
+//		dp[0] = 0;
 		dp[1] = wine[1];		
 		dp[2] = wine[1]+wine[2];
 		
