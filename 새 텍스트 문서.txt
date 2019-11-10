@@ -1,0 +1,6 @@
+org.sf.feeling.decompiler,3.1.1.201811062102,file:/C:/Users/Moon/.p2/pool/plugins/org.sf.feeling.decompiler_3.1.1.201811062102.jar,4,false
+org.sf.feeling.decompiler.cfr,3.1.1.201811062102,file:/C:/Users/Moon/.p2/pool/plugins/org.sf.feeling.decompiler.cfr_3.1.1.201811062102.jar,4,false
+org.sf.feeling.decompiler.jad,3.1.1.201811062102,file:/C:/Users/Moon/.p2/pool/plugins/org.sf.feeling.decompiler.jad_3.1.1.201811062102.jar,4,false
+org.sf.feeling.decompiler.jd,3.1.1.201811062102,file:/C:/Users/Moon/.p2/pool/plugins/org.sf.feeling.decompiler.jd_3.1.1.201811062102.jar,4,false
+org.sf.feeling.decompiler.procyon,3.1.1.201811062102,file:/C:/Users/Moon/.p2/pool/plugins/org.sf.feeling.decompiler.procyon_3.1.1.201811062102.jar,4,false
+org.sf.feeling.decompiler.source.attach,3.1.1.201811062102,file:/C:/Users/Moon/.p2/pool/plugins/org.sf.feeling.decompiler.source.attach_3.1.1.201811062102.jar,4,false
